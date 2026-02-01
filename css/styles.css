@@ -3792,6 +3792,7 @@ textarea.form-control-lg {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  background-color: #ffffff;
 }
 .navbar-nav .show > .nav-link,
 .navbar-nav .nav-link.active {
@@ -3816,6 +3817,7 @@ textarea.form-control-lg {
   flex-basis: 100%;
   flex-grow: 1;
   align-items: center;
+  background-color: #13653f;
 }
 
 .navbar-toggler {
@@ -3851,6 +3853,7 @@ textarea.form-control-lg {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
+  background-color: #13653f;
 }
 
 .navbar-nav-scroll {
@@ -4140,7 +4143,7 @@ textarea.form-control-lg {
 }
 
 .navbar-dark {
-  --bs-navbar-color: rgba(255, 255, 255, 0.55);
+  --bs-navbar-color: rgba(41, 161, 41, 0.55);
   --bs-navbar-hover-color: rgba(255, 255, 255, 0.75);
   --bs-navbar-disabled-color: rgba(255, 255, 255, 0.25);
   --bs-navbar-active-color: rgba(255, 255, 255, 0.254);
